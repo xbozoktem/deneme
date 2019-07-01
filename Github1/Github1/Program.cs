@@ -10,6 +10,7 @@ namespace Github1
     {
         static void Main(string[] args)
         {
+            int a = 5;
         }
     }
 }
